@@ -33,5 +33,11 @@ def fib_bottom_up(n):
 
 
 def fib_bottom_up_better(n):
-  ###TODO
+  # ??
   pass
+
+# to look at counts to answer Q4, commented out for submission:
+#n=15
+#counts = [0] * (n + 1)
+#fib_recursive(n, counts)
+#print(counts)
